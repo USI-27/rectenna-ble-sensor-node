@@ -142,7 +142,7 @@ The rectenna's DC output is intended to connect directly to the `VIN` harvesting
 | `docs/images/4.png` | Assembled board, bottom |
 | `docs/images/2.png` | Antenna keepout close up |
 
-**Still needed:** a scale reference photo, the board next to a coin or ruler, so viewers get a sense of the 35 mm × 35 mm size.
+
 
 ### 6.2 Rectenna prototype
 
@@ -150,20 +150,5 @@ The rectenna's DC output is intended to connect directly to the `VIN` harvesting
 |---|---|
 | `docs/images/6.png` | 3D CAD render of the pyramidal rectenna |
 
-Physical prototype photos (assembled pyramid, single sector close up, or the rectenna in a test range with the Tx horn) are still pending. Add them here once available.
 
-### 6.3 Test / measurement media — not yet available
 
-Worth adding once bench data exists, even a couple of these add a lot of credibility:
-
-* Bench setup shot (Tx horn antenna, rectenna, PMU board, multimeter/scope all in frame)
-* Multimeter reading showing harvested DC voltage / regulated output voltage
-* Scope capture of the boost converter switching node or output ripple
-* Any VNA S11 plot or measured radiation pattern, if that test is rerun
-
-Section 7 below is a placeholder for this data.
-
----
-
-## 7. Test & Measurement Results
-*(placeholder, to be filled in once bench data is available)*
