@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=ANT_Strip Pin=A1-1
+Change Component Footprint: Designator=C9 Old Footprint=CAPC1608X90 New Footprint=CAPC0603X33N
+Change Component Footprint: Designator=C10 Old Footprint=CAPC1608X90 New Footprint=CAPC0603X33N
+Add Pin To Net: Unknown Pin: Pin A1-0

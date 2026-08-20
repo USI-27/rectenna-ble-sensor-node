@@ -1,0 +1,6 @@
+Added Component: Designator=A1(ChipAntennaANNAB112)
+Added Pin To Net: NetName=ANT_INT Pin=U1-5
+Added Pin To Net: NetName=ANT_INT Pin=U1-6
+Added Net: Name=ANT_INT
+Added Pin To Net: NetName=NetA1_0 Pin=U1-1
+Added Net: Name=NetA1_0
