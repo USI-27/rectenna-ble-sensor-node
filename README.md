@@ -102,7 +102,6 @@ The complete Altium schematic, all three sub circuits above plus the board stack
 |---|---|
 | ![Assembled top](docs/images/3.png) | ![Assembled bottom](docs/images/4.png) |
 
-*Scale reference photo (board next to a coin or ruler) not yet added.*
 
 * **Board size:** 35 mm × 35 mm, double layer, FR4.
 * **Connector placement:** `J1` (SWD), `J2`, `J3` (power in/harvester in, regulated out) are placed along one edge for easy bench access during test and debug.
